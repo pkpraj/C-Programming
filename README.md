@@ -1,2 +1,2 @@
-# C-Programming
+# CPP
 Maze Navigating Robots
