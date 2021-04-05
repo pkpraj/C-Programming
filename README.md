@@ -1,2 +1,2 @@
 # CPP
-Maze Navigating Robots
+Maze Navigating Robot
